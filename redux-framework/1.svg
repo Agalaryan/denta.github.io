@@ -1,0 +1,20 @@
+<svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg"><title>ani-ico-communication</title><defs><link href="ani-icons.css" type="text/css" rel="stylesheet" xmlns="http://www.w3.org/1999/xhtml"/></defs>
+	<g fill="none" fill-rule="evenodd">
+		<g class="filled-instance" fill="#005CFF">
+			<path d="M19.622 27.388c-2.376 0-7.336-.503-7.336-.503L7.88 30.84l1.327-6.11S7 21.592 7 19.724c0-4.73 5.247-8.565 11.72-8.565 6.473 0 11.72 3.835 11.72 8.565 0 4.73-4.345 7.663-10.818 7.663z"/>
+			<path d="M28.615 35.142c2.332 0 7.198-.563 7.198-.563L40.136 39l-1.3-6.832S41 28.663 41 26.575C41 21.287 35.85 17 29.5 17S18 21.287 18 26.575c0 5.288 4.264 8.567 10.615 8.567z"/>
+		</g>
+
+		<g transform="translate(9 11)" stroke-linecap="round" stroke-linejoin="round">
+
+			<path d="M11.846 15.23c-2.23 0-6.884-.47-6.884-.47L.826 18.47l1.245-5.735S0 9.792 0 8.04C0 3.6 4.925 0 11 0s11 3.6 11 8.04c0 4.438-4.08 7.19-10.154 7.19zM8 17.5c.837 4.55 3.635 7.5 10.538 7.5 2.535 0 7.824-.558 7.824-.558l4.563 3.022-1.28-5.414S32 18.572 32 16.5c0-1.65-.175-2.76-1.148-4.112" class="stroked-primary" stroke="#000"/>
+
+			<circle class="stroked-secondary" stroke="#FFF" cx="7" cy="8" r="1"/>
+			<circle class="stroked-secondary" stroke="#FFF" cx="11" cy="8" r="1"/>
+			<circle class="stroked-secondary" stroke="#FFF" cx="15" cy="8" r="1"/>
+
+			<path d="M25.6 8.16c-.64-.31-1.287-.577-1.935-.798M29.532 10.832c-.638-.652-1.384-1.24-2.217-1.747" class="stroked-secondary" stroke="#FFF"/>
+
+		</g>
+	</g>
+</svg>
